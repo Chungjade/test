@@ -1,6 +1,6 @@
 # test
 ## the first image
 
-![alt text][logo]
+![alt text][1]
 
-[logo]:https://github.com/Chungjade/test/blob/master/blossoms.jpg
+[1]:https://github.com/Chungjade/test/blob/master/blossoms.jpg
