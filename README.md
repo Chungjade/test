@@ -1,3 +1,4 @@
 # test
 ## the first image
-![alt text](https://github.com/Chungjade/test/blob/master/blossoms.jpg){:height="400px" width="100px"}
+<img src="https://github.com/Chungjade/test/blob/master/blossoms.jpg" width="100" height="200" alt="flower"/>
+![alt text](https://github.com/Chungjade/test/blob/master/blossoms.jpg)
