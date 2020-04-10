@@ -1,3 +1,3 @@
 # test
 ## the first image
-![alt text][https://github.com/Chungjade/test/blob/master/blossoms.jpg =50]
+![alt text][https://github.com/Chungjade/test/blob/master/blossoms.jpg]
